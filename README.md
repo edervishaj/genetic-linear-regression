@@ -3,4 +3,4 @@ This is a simple example of the application of genetic algorithms in the approxi
 
 ![Animation of convergence](ga_regression.gif)
 
-The used dataset are the exchange rates of USD to 3 other currencies per given day.
+The used dataset is the exchange rates of USD to 3 other currencies per given day.
